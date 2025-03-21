@@ -1,3 +1,12 @@
+[![Header](
+https://raw.githubusercontent.com/yourusername/yourrepository/main/banner.svg
+)](https://github.com/yourusername)
+
+<!-- Или напрямую через SVG-код -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/banner.svg" alt="Header" width="100%">
+</div>
+
 # Areshka90
 # 👋 Hi there! I'm Anna, a passionate MLOps Engineer
 
