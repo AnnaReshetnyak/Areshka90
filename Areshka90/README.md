@@ -118,13 +118,7 @@
 
 <div align="center">
 
-### 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaReshetnyak&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaReshetnyak&layout=compact&theme=radical)
-
----
 
 ⭐ **Если мой профиль вам понравился, поставьте звездочку!** ⭐
 
